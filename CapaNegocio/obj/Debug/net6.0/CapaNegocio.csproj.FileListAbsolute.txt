@@ -1,0 +1,15 @@
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll

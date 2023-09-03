@@ -1,0 +1,12 @@
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
