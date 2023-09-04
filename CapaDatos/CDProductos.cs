@@ -19,6 +19,10 @@ namespace CapaDatos
         DataTable tabla = new DataTable();
         SqlCommand comando = new SqlCommand();
 
+        private int idprod;
+
+        public int Idprod { get => idprod; set => idprod = value; }
+
         public DataTable mostrar()
         {
             comando.Connection = conexion.abrir();

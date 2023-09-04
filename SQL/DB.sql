@@ -113,3 +113,9 @@ DESCRIPCION = @desc,
 PRECIO = @precio
 where IDPROD = @idprod
 go
+
+create proc eliminarProducto
+@idprod int
+as
+delete from PRODUCTOS
+where IDPROD = @idprod
