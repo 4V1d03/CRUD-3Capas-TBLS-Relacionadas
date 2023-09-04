@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\CRUD-3CAPAS-TBLS RELACIONADAS\\CapaDatos\\CapaDatos.csproj",
+      "projectUniqueName": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\GitHub\\CRUD-3Capas-TBLS-Relacionadas\\CapaDatos\\CapaDatos.csproj",
       "projectName": "CapaDatos",
-      "projectPath": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\CRUD-3CAPAS-TBLS RELACIONADAS\\CapaDatos\\CapaDatos.csproj",
+      "projectPath": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\GitHub\\CRUD-3Capas-TBLS-Relacionadas\\CapaDatos\\CapaDatos.csproj",
       "packagesPath": "C:\\Users\\aguil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\CRUD-3CAPAS-TBLS RELACIONADAS\\CapaDatos\\obj\\",
+      "outputPath": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\GitHub\\CRUD-3Capas-TBLS-Relacionadas\\CapaDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aguil\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Collections;
 using System.Text.RegularExpressions;
+using System.Xml.Serialization;
 
 namespace CapaDatos
 {
@@ -81,7 +82,15 @@ namespace CapaDatos
             comando.Parameters.Clear();
         }
 
-
+        public void Eliminar(int id)
+        {
+            comando.Connection = conexion.abrir();
+            comando.CommandText = "eliminarProducto";
+            comando.CommandType = CommandType.StoredProcedure;
+            comando.Parameters.AddWithValue("@idprod", id);
+            comando.ExecuteNonQuery();
+            comando.Parameters.Clear();
+        }
 
 
 

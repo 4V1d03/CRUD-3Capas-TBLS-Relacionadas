@@ -94,7 +94,18 @@ namespace CapaPresentacion
 
         private void btneliminar_Click(object sender, EventArgs e)
         {
-
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                idProducto = dataGridView1.CurrentRow.Cells["Id"].Value.ToString();
+                CNProducto.eliminar(idProducto);
+                MessageBox.Show("Eliminado Correctamente");
+                Mostrarproductos();
+            }
+            else
+            {
+                MessageBox.Show("seleccione una fila por favor");
+            }
+            
         }
 
         private void btnmodificarPro_Click(object sender, EventArgs e)
@@ -122,9 +133,14 @@ namespace CapaPresentacion
 
         }
 
-
-
-
-
+        private void btnguardar2_Click(object sender, EventArgs e)
+        {
+            Mantenimiento_Producto mant = new Mantenimiento_Producto();
+            mant.operacion = "insertar";
+            mant.ListarCate();
+            mant.ListarMarca();
+            mant.ShowDialog();
+            Mostrarproductos();
+        }
     }
 }

@@ -30,5 +30,8 @@ namespace CapaDatos
             return conexionSQL;
         }
 
+        public void m()
+        { }
+
     }
 }

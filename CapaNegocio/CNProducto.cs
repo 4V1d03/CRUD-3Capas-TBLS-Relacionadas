@@ -44,6 +44,11 @@ namespace CapaNegocio
             CDproducto.Modificar(idcat, idmarca, desc, Convert.ToDouble(precio), Convert.ToInt32(idprod));
         }
 
+        public void eliminar(string idprod)
+        {
+            CDproducto.Eliminar(Convert.ToInt32(idprod));
+        }
+
 
 
 

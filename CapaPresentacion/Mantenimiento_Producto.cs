@@ -15,7 +15,7 @@ namespace CapaPresentacion
     {
         CNProducto CNProducto = new CNProducto();
         public string idProducto = null;
-        public string operacion = "insertar";
+        public string operacion = "";
 
         public Mantenimiento_Producto()
         {
@@ -52,6 +52,7 @@ namespace CapaPresentacion
             {
                 CNProducto.insertar(Convert.ToInt32(cbcategoria.SelectedValue), Convert.ToInt32(cbmarca.SelectedValue), txtdescripcion.Text, txtprecio.Text);
                 MessageBox.Show("Se Guardo Correctamente");
+                this.Close();
 
             }
 
@@ -61,6 +62,7 @@ namespace CapaPresentacion
                 CNProducto.modificar(Convert.ToInt32(cbcategoria.SelectedValue), Convert.ToInt32(cbmarca.SelectedValue), txtdescripcion.Text, txtprecio.Text, idProducto);
                 MessageBox.Show("Se Edito Correctamente");
                 operacion = "insertar";
+                this.Close();
             }
         }
 

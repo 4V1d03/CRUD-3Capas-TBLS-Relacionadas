@@ -41,6 +41,7 @@
             btnmodificar = new Button();
             btneliminar = new Button();
             btnmodificarPro = new Button();
+            btnguardar2 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -86,7 +87,7 @@
             // cbmarca
             // 
             cbmarca.FormattingEnabled = true;
-            cbmarca.Location = new Point(826, 90);
+            cbmarca.Location = new Point(826, 91);
             cbmarca.Name = "cbmarca";
             cbmarca.Size = new Size(241, 28);
             cbmarca.TabIndex = 3;
@@ -125,7 +126,7 @@
             // 
             // btnguardar
             // 
-            btnguardar.Location = new Point(746, 223);
+            btnguardar.Location = new Point(746, 224);
             btnguardar.Name = "btnguardar";
             btnguardar.Size = new Size(321, 48);
             btnguardar.TabIndex = 9;
@@ -159,15 +160,26 @@
             btnmodificarPro.Name = "btnmodificarPro";
             btnmodificarPro.Size = new Size(185, 39);
             btnmodificarPro.TabIndex = 12;
-            btnmodificarPro.Text = "Modificar FRM Producto";
+            btnmodificarPro.Text = "Modificar 2";
             btnmodificarPro.UseVisualStyleBackColor = true;
             btnmodificarPro.Click += btnmodificarPro_Click;
+            // 
+            // btnguardar2
+            // 
+            btnguardar2.Location = new Point(216, 405);
+            btnguardar2.Name = "btnguardar2";
+            btnguardar2.Size = new Size(185, 39);
+            btnguardar2.TabIndex = 13;
+            btnguardar2.Text = "Guardar 2";
+            btnguardar2.UseVisualStyleBackColor = true;
+            btnguardar2.Click += btnguardar2_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1083, 460);
+            Controls.Add(btnguardar2);
             Controls.Add(btnmodificarPro);
             Controls.Add(btneliminar);
             Controls.Add(btnmodificar);
@@ -204,5 +216,6 @@
         private Button btnmodificar;
         private Button btneliminar;
         private Button btnmodificarPro;
+        private Button btnguardar2;
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SYPxBqa7lVaGRq6Z+N++cLy/4bzRw36mx0OJGWdIVkvWKt2GSBoBZTaBu5BE3n4AoG8fZb2TsZiyDDn5sRQV4Q==",
+  "dgSpecHash": "FYcZJ2h/ORv9iI65mcjF8GXXrD7bxsp8V0fHUVmW6UD9sbpsduvtJkCyGFUQ3dmGeBO/7MHvwiUWsVsEEjEQxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\CRUD-3CAPAS-TBLS RELACIONADAS\\CapaDatos\\CapaDatos.csproj",
+  "projectFilePath": "C:\\Users\\aguil\\OneDrive\\Proyectos personales\\C#\\GitHub\\CRUD-3Capas-TBLS-Relacionadas\\CapaDatos\\CapaDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aguil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\aguil\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
