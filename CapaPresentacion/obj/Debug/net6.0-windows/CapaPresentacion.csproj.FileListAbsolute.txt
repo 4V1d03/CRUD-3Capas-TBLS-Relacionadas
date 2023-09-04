@@ -26,3 +26,4 @@ C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\Ca
 C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
 C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
 C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\CRUD-3CAPAS-TBLS RELACIONADAS\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Mantenimiento_Producto.resources

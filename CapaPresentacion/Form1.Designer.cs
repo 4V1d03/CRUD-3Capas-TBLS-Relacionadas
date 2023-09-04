@@ -40,6 +40,7 @@
             btnguardar = new Button();
             btnmodificar = new Button();
             btneliminar = new Button();
+            btnmodificarPro = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -152,11 +153,22 @@
             btneliminar.UseVisualStyleBackColor = true;
             btneliminar.Click += btneliminar_Click;
             // 
+            // btnmodificarPro
+            // 
+            btnmodificarPro.Location = new Point(25, 405);
+            btnmodificarPro.Name = "btnmodificarPro";
+            btnmodificarPro.Size = new Size(185, 39);
+            btnmodificarPro.TabIndex = 12;
+            btnmodificarPro.Text = "Modificar FRM Producto";
+            btnmodificarPro.UseVisualStyleBackColor = true;
+            btnmodificarPro.Click += btnmodificarPro_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1083, 414);
+            ClientSize = new Size(1083, 460);
+            Controls.Add(btnmodificarPro);
             Controls.Add(btneliminar);
             Controls.Add(btnmodificar);
             Controls.Add(btnguardar);
@@ -191,5 +203,6 @@
         private Button btnguardar;
         private Button btnmodificar;
         private Button btneliminar;
+        private Button btnmodificarPro;
     }
 }

@@ -71,7 +71,7 @@ namespace CapaPresentacion
 
 
             }
-            
+
         }
 
         private void btnmodificar_Click(object sender, EventArgs e)
@@ -96,5 +96,35 @@ namespace CapaPresentacion
         {
 
         }
+
+        private void btnmodificarPro_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                Mantenimiento_Producto mant = new Mantenimiento_Producto();
+                mant.operacion = "editar";
+                mant.ListarCate();
+                mant.ListarMarca();
+                //pasa los datos del data grid a los CB y TXT del formulario mantenimiento 
+                mant.idProducto = dataGridView1.CurrentRow.Cells[0].Value.ToString(); //los txt y cb (controles) deben de estar en Public
+                mant.cbcategoria.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
+                mant.cbmarca.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+                mant.txtdescripcion.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
+                mant.txtprecio.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
+                mant.ShowDialog();
+                Mostrarproductos();
+            }
+
+            else
+            {
+                MessageBox.Show("seleccione una fila por favor");
+            }
+
+        }
+
+
+
+
+
     }
 }
